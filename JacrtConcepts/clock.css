@@ -1,0 +1,8 @@
+input {
+    border: 8px solid #555;
+  }
+  button{
+    margin-top: 5px;
+    background-color:antiquewhite;
+    display: flex;
+  }
